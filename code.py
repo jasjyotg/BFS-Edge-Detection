@@ -145,6 +145,6 @@ def generate_image(image_path):
 
 if __name__ == "__main__":
     # Example usage
-    image = "gaussian.png"
-    image_path = "./testImages/" + image
+    # image = "gaussian.png"
+    # image_path = "./testImages/" + image
    # generate_image_grid(image_path)
